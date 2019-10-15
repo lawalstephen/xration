@@ -1,0 +1,20 @@
+{
+  "name": "xration",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "Stephen Lawal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
